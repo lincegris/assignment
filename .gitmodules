@@ -1,3 +1,6 @@
 [submodule "GitTest"]
 	path = GitTest
 	url = https://github.com/MatiasPujado/GitTest.git
+[submodule "solProyect"]
+	path = solProyect
+	url = https://github.com/SunFanton/formulario-encuesta.git
