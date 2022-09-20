@@ -4,3 +4,6 @@
 [submodule "solProyect"]
 	path = solProyect
 	url = https://github.com/SunFanton/formulario-encuesta.git
+[submodule "jorgeProyect"]
+	path = jorgeProyect
+	url = https://github.com/JorgeGarciaMdz/work-aws.git
